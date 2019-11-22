@@ -1,0 +1,1 @@
+# maithuy_solr
